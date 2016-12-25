@@ -1,0 +1,5 @@
+CraftTweaker-1.7.10-3.0.10.jar
+DummyCore1.13.jar
+EssentialCraftv4.6.1710.67Unofficial.jar
+EssentialThaumaturgy-1.1.1710.11EC(4.4.1710.37)TC(4.2.3.5).jar
+Thaumcraft-1.7.10-4.2.3.5.jar

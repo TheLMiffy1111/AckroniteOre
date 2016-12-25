@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ackroniteore",
+  "name": "Ackronite Ore: Essential Manufacture",
+  "description": "A mod that is aimed to add renewability to EssentialCraft with the aid of its own Thaumcraft addon.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheLMiffy1111"],
+  "credits": "Thanks to Artem226 for the MineTweaker integration",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

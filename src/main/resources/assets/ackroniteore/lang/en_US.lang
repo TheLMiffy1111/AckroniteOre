@@ -1,0 +1,84 @@
+#=====MISC=====
+
+itemGroup.ackroniteore=Ackronite Ore
+
+#====BLOCKS====
+
+tile.ackroniteore.BlockAckroniteOre.name=Ackronite Ore
+tile.ackroniteore.BlockESPECrystal.0.name=Block of ESPE Crystal
+tile.ackroniteore.BlockESPECrystal.1.name=Bordered Block of ESPE Crystal
+tile.ackroniteore.BlockESPECrystal.2.name=Holed Block of ESPE Crystal
+tile.ackroniteore.BlockESPEInfuser.name=ESPE Infuser
+
+#====ITEMS=====
+
+item.ackroniteore.ItemResource.0.name=ESPE Crystal
+item.ackroniteore.ItemResource.1.name=Ackronite Nugget
+item.ackroniteore.ItemResource.2.name=Native Ackronite Cluster
+item.ackroniteore.ItemResource.3.name=Ackronite Dust
+
+#===RESEARCH===
+
+tc.research_category.ACKRONITEORE=Essential Manufacture
+
+#ACKRONITEORE
+
+research.name.ackroniteore.ACKRONITEORE=Ackronite Ore
+research.tag.ackroniteore.ACKRONITEORE=Seeing the unseen
+research.text.ackroniteore.ACKRONITEORE.1=While only demons can find and mine this strange metal, you wondered if you could use thaumaturgy to make the ore yourself.<BR>At first, you tried using a simple crucible to create the ore, but you failed: it required more than that. Infusing a piece of netherrack using an ackronite ingot and a bit of aspects to bring the metal out, you've managed to create it.
+
+#TITANITEDUPLICATION
+
+research.name.ackroniteore.TITANITEDUPLICATION=Titanite Duplication
+research.tag.ackroniteore.TITANITEDUPLICATION=Element 22
+research.text.ackroniteore.TITANITEDUPLICATION.1=Using simple mechanics of alchemic duplication, you've managed to duplicate the titanite of Hoanna.
+
+#TWINKLINGTITANITE
+
+research.name.ackroniteore.TWINKLINGTITANITE=Twinkling Titanite
+research.tag.ackroniteore.TWINKLINGTITANITE=Dropped by rock lizards
+research.text.ackroniteore.TWINKLINGTITANITE.1=By infusing some aspects into a piece of titanite, you've made it so that it glows.
+
+#ESPECRYSTAL
+
+research.name.ackroniteore.ESPECRYSTAL=ESPE Crystal
+research.tag.ackroniteore.ESPECRYSTAL=From the Stars
+research.text.ackroniteore.ESPECRYSTAL.1=You have wondered if you can turn ESPE into crystals, and turns out you can! Just infuse some fading crystals with some aspects. Although, you are not sure how to use it yet...
+
+#AIRPOTION
+
+research.name.ackroniteore.AIRPOTION=Air Potion
+research.tag.ackroniteore.AIRPOTION=Does not give water breathing
+research.text.ackroniteore.AIRPOTION.1=By using the mechanics of infusion, you've made air potions without using the wind rune.
+
+#WINDCRYSTAL
+
+research.name.ackroniteore.WINDCRYSTAL=Wind Crystal
+research.tag.ackroniteore.WINDCRYSTAL=From the dimension of Vanda
+research.text.ackroniteore.WINDCRYSTAL.1=By using the mechanics of infusion, you've made wind crystals without using the wind rune.
+
+#ESPEINFUSER
+
+research.name.ackroniteore.ESPEINFUSER=ESPE Infuser
+research.tag.ackroniteore.ESPEINFUSER=Escuela Politécnica del Ejército
+research.text.ackroniteore.ESPEINFUSER.1=You've wanted to infuse your the energy of your ESPE crystals back into those mithriline crystals, but how will you do it? You've managed, at last, to make a complex machine that will do just that by utilizing the properties of the primordial MRU core, a bound gem, and some ESPE itself, all infused into a radiating chamber.
+research.text.ackroniteore.ESPEINFUSER.2=This machine will extract all the ESPE in a ESPE crystal, and infuse it into a mithriline crystal next to it. What's more, you will get MRU resonating crystals back! This machine can also hold a lot of MRU, by using the mithriline crystals in itself. Unfortunately, you are unable to open its GUI due to its complexity, so you need to use hoppers to insert and extract items.
+research.text.ackroniteore.ESPEINFUSER.3=Apparently, the pure particle contains a significant amount of ESPE. However, it will turn into a primordial MRU leftover when infused into a mithriline crystal, so you might not want to use it up.
+
+#VOIDCORE
+
+research.name.ackroniteore.VOIDCORE=Void Core
+research.tag.ackroniteore.VOIDCORE=Also contains no warp
+research.text.ackroniteore.VOIDCORE.1=By arranging materials in an arcane worktable similar to how the normal cores are crafted, you've recreated the void cores of Hoanna.
+
+#MRUREACTOR
+
+research.name.ackroniteore.MRUREACTOR=MRU Reactor
+research.tag.ackroniteore.MRUREACTOR=I've asked you to simply make it smaller
+research.text.ackroniteore.MRUREACTOR.1=By infusing the ingredients needed to create a radiating chamber and some more void plates, you've somehow managed to recreate the MRU reactor of Hoanna.
+
+#PUREACKRONITE
+
+research.name.ackroniteore.PUREACKRONITE=Ackronite Purification
+research.tag.ackroniteore.PUREACKRONITE=Purification of ackronite into native clusters
+research.text.ackroniteore.PUREACKRONITE.1=Native clusters are rare concentrations of metal in its purest form. You have discovered a way to purify and concentrate normal ackronite ore into a native ackronite cluster.<BR>When smelted these clusters produces twice the normal amount of ackronite ingots.
